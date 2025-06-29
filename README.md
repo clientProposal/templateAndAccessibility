@@ -16,7 +16,7 @@ dot restore && dot build
 Then:
 dot run
 
-[Link Text](https://dev.apryse.com/)
+[Get License Key](https://dev.apryse.com/)
 
 The pdf produced at TestFiles/Output/6076.pdf is pdf/ua-1 compliant. 
 The JSON has been added in the body of the class in Program.cs
